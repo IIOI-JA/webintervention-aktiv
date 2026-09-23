@@ -1,0 +1,11 @@
+{
+  "name": "aktiv-ventetid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AKTIV VENTETID — Albers-Online. Static HTML/CSS/JS, deployed to Vercel.",
+  "scripts": {
+    "dev": "node scripts/serve-static.mjs",
+    "start": "node scripts/serve-static.mjs",
+    "build": "node scripts/build-static.mjs"
+  }
+}
